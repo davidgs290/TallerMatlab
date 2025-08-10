@@ -8,24 +8,22 @@ Añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathwork
 <!-- Agrega el icono de "Abrir en MATLAB Online" al README para abrir un archivo específico en MATLAB Online -->
 
 ## Autor
-Adicione su nombre y afiliación
+David Gomez Salazar
 
 ## Resumen de la actividad
-Por favor, proporcione una breve descripción de su actividad o tarea y sus resultados. 
-Asegúrese de incluir palabras clave para ayudar otros a encontrar sus materiales utilizando nuestras funciones de búsqueda/navegación.
+Revisar los conceptos en el teorema del valor intermedio, palntear el algoritmo para el metodod de la biseccion, resolver un problema de una ecuacion con una incognita mediante un grafico y despues implementar un codigo de matlab que contruya una tabla que muestre el proceso de la biseccion para la solucion de ecuaciones con una incognita
 
 ## Contexto o pre-requisitos
-Este texto debería ayudar a otros docentes a comprender las situaciones de enseñanza para las cuales esta actividad es apropiada.
+Es un curso de metodos numericos pero se usan estos como pretexto para introducir el uso del matlab y comprender la programacion. son estudiantes de segundo año de licenciatura del area de ingenierias, es el primer contacto que tienen con el matlab.
 
 ## Asignaturas o departmento donde se puede usar la Actividad
+Departamento de Matemáticas Asignatura de Métodos numéricos
 
 ## Notas para los Educadores usando la Actividad
-Esta sección debe incluir notas y consejos para los instructores que podrían utilizar la actividad.
+
 
 ## Evaluación
-Describe brevemente cómo determinas si los estudiantes han alcanzado los objetivos de esta tarea o actividad.
-O si la actividad es exploratoria
+los alumnos obtienen una nota aprobatoria si entregan los codigos que puedan evaluar la ecuacion a resolver y para generar la tabla que muestre el proceso de la biseccion
 
 ## Recursos adicionales
-Esta sección debe incluir referencias y enlaces a recursos en línea que discutan la actividad específica o que apoyen a los docentes
-y/o estudiantes que utilicen la actividad.
+las referencias que uso son el libro de texto (Chapra)
